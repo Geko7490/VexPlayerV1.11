@@ -1,0 +1,5 @@
+-keepattributes *Annotation*, InnerClasses
+-dontnote kotlinx.serialization.**
+-keepclassmembers class kotlinx.serialization.json.** { *; }
+-keep,includedescriptorclasses class com.vexmusic.player.**$$serializer { *; }
+-keepclassmembers class com.vexmusic.player.** { *** Companion; }

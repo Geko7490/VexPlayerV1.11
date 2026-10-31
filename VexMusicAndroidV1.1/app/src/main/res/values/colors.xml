@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vex_purple">#A855F7</color>
+    <color name="vex_background">#0F0F13</color>
+    <color name="vex_surface">#17171D</color>
+    <color name="vex_card">#1C1B23</color>
+</resources>

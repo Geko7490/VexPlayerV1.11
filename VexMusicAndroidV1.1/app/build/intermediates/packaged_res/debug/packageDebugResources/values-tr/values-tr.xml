@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VEX MUSIC</string>
+    <string name="empty_library">Henüz müzik eklenmedi</string>
+    <string name="empty_library_hint">Cihazınızdan ses dosyası eklemek için Müzik içe aktar seçeneğini kullanın. Dosyalar cihazınızda kalır.</string>
+    <string name="import_music">Müzik içe aktar</string>
+    <string name="nav_equalizer">Ekolayzer</string>
+    <string name="nav_favorites">Favoriler</string>
+    <string name="nav_history">Geçmiş</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_library">Kitaplık</string>
+    <string name="nav_lyrics">Şarkı Sözleri</string>
+    <string name="nav_now_playing">Çalıyor</string>
+    <string name="nav_playlists">Çalma Listeleri</string>
+    <string name="nav_search">Ara</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_storage">Depolama</string>
+    <string name="playback_channel_name">Oynatma</string>
+    <string name="tagline">Müziğin. Sözlerin. Kontrol sende.</string>
+</resources>

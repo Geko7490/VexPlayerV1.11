@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+*.log
+
+# Node (only used for the repository landing page, not for the Android app)
+node_modules/
+dist/

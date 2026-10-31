@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vexmusic.player.LyricsParserTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-30T20:46:47" hostname="e2b.local" time="0.193">
+  <properties/>
+  <testcase name="match scorer prefers exact metadata" classname="com.vexmusic.player.LyricsParserTest" time="0.072"/>
+  <testcase name="long lyrics are not truncated" classname="com.vexmusic.player.LyricsParserTest" time="0.098"/>
+  <testcase name="expands multiple timestamps on one line" classname="com.vexmusic.player.LyricsParserTest" time="0.002"/>
+  <testcase name="parses standard lrc timestamps" classname="com.vexmusic.player.LyricsParserTest" time="0.001"/>
+  <testcase name="plain text is never reported as synced" classname="com.vexmusic.player.LyricsParserTest" time="0.002"/>
+  <testcase name="round trips parsed lyrics back to lrc" classname="com.vexmusic.player.LyricsParserTest" time="0.001"/>
+  <testcase name="reads enhanced word level timings" classname="com.vexmusic.player.LyricsParserTest" time="0.001"/>
+  <testcase name="detects format correctly" classname="com.vexmusic.player.LyricsParserTest" time="0.009"/>
+  <testcase name="parses ttml with word spans" classname="com.vexmusic.player.LyricsParserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
